@@ -1,0 +1,42 @@
+RELATÓRIO DE INSIGHTS - STEAM GAMES DATASET
+============================================================
+Gerado em: 2025-08-10 06:20:22
+
+ESTATÍSTICAS GERAIS
+------------------------------
+Total de jogos: 19,908
+Período: 2010 - 2019
+Receita total estimada: $27.14 bilhões
+Preço médio: $6.55
+Avaliação média: 72.6%
+
+TOP 10 JOGOS POR RECEITA
+------------------------------
+ 1. PLAYERUNKNOWN'S BATTLEGROUNDS - $2024.2M
+ 2. MONSTER HUNTER: WORLD - $374.9M
+ 3. Grand Theft Auto V - $374.9M
+ 4. ARK: Survival Evolved - $337.4M
+ 5. HITMAN™ 2 - $337.4M
+ 6. Rust - $208.4M
+ 7. The Witcher® 3: Wild Hunt - $187.4M
+ 8. Sid Meier’s Civilization® VI - $175.0M
+ 9. Sekiro™: Shadows Die Twice - $174.7M
+10. Cities: Skylines - $172.4M
+
+ESTATÍSTICAS POR GÊNERO
+------------------------------
+Action: 8266.0 jogos, $16796.7M, Preço médio: $6.64
+Adventure: 4015.0 jogos, $2495.1M, Preço médio: $6.14
+Casual: 2877.0 jogos, $559.5M, Preço médio: $3.57
+Indie: 1969.0 jogos, $1762.9M, Preço médio: $7.21
+Violent: 508.0 jogos, $157.1M, Preço médio: $6.65
+Simulation: 496.0 jogos, $1499.5M, Preço médio: $13.13
+Free to Play: 374.0 jogos, $0.7M, Preço médio: $0.06
+Strategy: 364.0 jogos, $1321.7M, Preço médio: $11.46
+RPG: 307.0 jogos, $1510.5M, Preço médio: $13.26
+Sexual Content: 201.0 jogos, $161.9M, Preço médio: $7.27
+Racing: 153.0 jogos, $484.3M, Preço médio: $14.49
+Nudity: 94.0 jogos, $111.2M, Preço médio: $7.29
+Gore: 61.0 jogos, $13.9M, Preço médio: $5.44
+Sports: 59.0 jogos, $63.1M, Preço médio: $13.98
+Animation & Modeling: 51.0 jogos, $77.4M, Preço médio: $30.18
