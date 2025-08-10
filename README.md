@@ -241,23 +241,23 @@ python src/load.py         # Teste de carga
 ### Screenshots do Dashboard
 
 #### 🏠 **Dashboard Principal - Visão Geral**
-![Dashboard Principal](screenshots/Screenshot1.png)
+![Dashboard Principal](etl_dashboard/screenshots/Screenshot1.png)
 *Dashboard principal mostrando KPIs, filtros interativos e gráficos de análise*
 
 #### 📊 **KPIs e Métricas Principais**
-![KPIs e Métricas](screenshots/Screenshot2.png)
+![KPIs e Métricas](etl_dashboard/screenshots/Screenshot2.png)
 *Indicadores principais: Total de jogos, receita estimada, preço médio e avaliação*
 
 #### 🏆 **Rankings e Top Lists**
-![Rankings](screenshots/Screenshot3.png)
+![Rankings](etl_dashboard/screenshots/Screenshot3.png)
 *Top 10 jogos mais rentáveis, melhor avaliados e mais populares*
 
 #### 📈 **Análises Temporais**
-![Análises Temporais](screenshots/Screenshot4.png)
+![Análises Temporais](etl_dashboard/screenshots/Screenshot4.png)
 *Evolução de lançamentos por ano e receita estimada por período*
 
 #### 🎭 **Análises por Gênero e Preço**
-![Análises por Categoria](screenshots/Screenshot5.png)
+![Análises por Categoria](etl_dashboard/screenshots/Screenshot5.png)
 *Distribuição por gêneros, categorias de preço e análises detalhadas*
 
 > 💡 **Como navegar**: Use os filtros na sidebar esquerda para refinar os dados por ano, gênero, categoria de preço, plataformas e avaliação mínima. Todos os gráficos são interativos!
